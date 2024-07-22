@@ -9,8 +9,8 @@
 &nbsp&nbsp
 <div align="center">
 <a href="https://finishlinebyner.com"> <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/FinishlineDark.jpg" width="20" height="20">
-  <img alt="Finishline Logo" src="../assets/FinishlineLight.png" width="20" height="20">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/FinishlineDark.jpg" width="40" height="20">
+  <img alt="Finishline Logo" src="../assets/FinishlineLight.png" width="40" height="20">
 </picture> </a> &nbsp&nbsp <a href="https://www.linkedin.com/company/northeasternelectricracing"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="20" height="20"> </a>
 &nbsp&nbsp <a href="https://www.instagram.com/nuelectricracing/"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="20" height="20"> </a> &nbsp&nbsp<a href="https://nerdocs.atlassian.net/wiki/spaces/NER/overview?homepageId=65735"> <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="20" height="20"> </a>
 </div>
