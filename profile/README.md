@@ -1,10 +1,17 @@
 <div align="center">
 <a href="https://electricracing.northeastern.edu">
-<img src="https://electricracing.northeastern.edu/wp-content/uploads/2023/02/cropped-NER-logo-white.png" width="200"/> </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://electricracing.northeastern.edu/wp-content/uploads/2023/02/cropped-NER-logo-white.png" width="200">
+  <img alt="Northeastern Electric Racing Logo" src="../assets/LogoLight.png" width="200">
+</picture>
+ </a>
 </div>
 &nbsp&nbsp
 <div align="center">
-<a href="https://finishlinebyner.com"> <img src="" width="20" height="20"> </a> &nbsp&nbsp <a href="https://www.linkedin.com/company/northeasternelectricracing"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="20" height="20"> </a>
+<a href="https://finishlinebyner.com"> <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/FinishlineDark.jpg" width="20" height="20">
+  <img alt="Finishline Logo" src="../assets/FinishlineLight.png" width="20" height="20">
+</picture> </a> &nbsp&nbsp <a href="https://www.linkedin.com/company/northeasternelectricracing"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="20" height="20"> </a>
 &nbsp&nbsp <a href="https://www.instagram.com/nuelectricracing/"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="20" height="20"> </a> &nbsp&nbsp<a href="https://nerdocs.atlassian.net/wiki/spaces/NER/overview?homepageId=65735"> <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="20" height="20"> </a>
 </div>
 &nbsp
@@ -22,7 +29,7 @@ Our software team is a diverse group of software, computer, and electrical engin
 | Project Name | Description | Technologies Used |
 | ------------ | :---------: | ---------------------------- |
 | | **Web Development** | |
-| [FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)   | A full-stack web application which enables organized project management of the team's build cycle, including timeline, task, personnel, BOM, finance, and meeting management. | Typescript, React, Express, Node.js |
+| <a href="https://github.com/Northeastern-Electric-Racing/FinishLine"> <picture> <source media="(prefers-color-scheme: dark)" srcset="../assets/FinishlineDark.jpg" width="80" height="60"> <img alt="Finishline Logo" src="../assets/FinishlineLight.png" width="80" height="60"> </picture> </a>    | A full-stack web application which enables organized project management of the team's build cycle, including timeline, task, personnel, BOM, finance, and meeting management. | Typescript, React, Express, Node.js |
 | [Launchpad](https://github.com/Northeastern-Electric-Racing-Launchpad) (external org) | A git based educational system for understanding and honing basic skills in the world of software. | Git, Typescript, React, Express |
 | | **Application Software** | |
 | [Argos](https://github.com/Northeastern-Electric-Racing/Argos) | A full stack data visualization and storage tool enabling real-time processing of car diagnostics for debugging and racetime information, as well as long term cloud management and querying of car statitistics. | Rust, MQTT, Prisma, TimescaleDB, Angular, Typescript, Protobuf |
