@@ -16,15 +16,21 @@
   </a>
   &nbsp&nbsp
   <a href="https://www.linkedin.com/company/northeasternelectricracing">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="20" height="20">
+    <picture>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="20" height="20">
+    </picture>
   </a>
   &nbsp&nbsp
   <a href="https://www.instagram.com/nuelectricracing/">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="20" height="20">
+    <picture>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="20" height="20">
+    </picture>
   </a>
   &nbsp&nbsp
   <a href="https://nerdocs.atlassian.net/wiki/spaces/NER/overview?homepageId=65735">
-    <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="20" height="20">
+    <picture>
+      <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="20" height="20">
+    </picture>
   </a>
 </div>
 &nbsp
