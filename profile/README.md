@@ -1,22 +1,37 @@
 <div align="center">
-<a href="https://electricracing.northeastern.edu">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://electricracing.northeastern.edu/wp-content/uploads/2023/02/cropped-NER-logo-white.png" width="200">
-  <img alt="Northeastern Electric Racing Logo" src="../assets/LogoLight.png" width="200">
-</picture>
- </a>
+  <a href="https://electricracing.northeastern.edu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://electricracing.northeastern.edu/wp-content/uploads/2023/02/cropped-NER-logo-white.png" width="200">
+      <img alt="Northeastern Electric Racing Logo" src="../assets/LogoLight.png" width="200">
+    </picture>
+  </a>
 </div>
 &nbsp&nbsp
 <div align="center">
-<a href="https://finishlinebyner.com"> <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/FinishlineDark.jpg" width="40" height="20">
-  <img alt="Finishline Logo" src="../assets/FinishlineLight.png" width="40" height="20">
-</picture> </a> &nbsp&nbsp <a href="https://www.linkedin.com/company/northeasternelectricracing"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="20" height="20"> </a>
-&nbsp&nbsp <a href="https://www.instagram.com/nuelectricracing/"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="20" height="20"> </a> &nbsp&nbsp<a href="https://nerdocs.atlassian.net/wiki/spaces/NER/overview?homepageId=65735"> <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="20" height="20"> </a>
+  <a href="https://finishlinebyner.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../assets/FinishlineDark.jpg" width="40" height="20">
+      <img alt="Finishline Logo" src="../assets/FinishlineLight.png" width="40" height="20">
+    </picture>
+  </a>
+  &nbsp&nbsp
+  <a href="https://www.linkedin.com/company/northeasternelectricracing">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="20" height="20">
+  </a>
+  &nbsp&nbsp
+  <a href="https://www.instagram.com/nuelectricracing/">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="20" height="20">
+  </a>
+  &nbsp&nbsp
+  <a href="https://nerdocs.atlassian.net/wiki/spaces/NER/overview?homepageId=65735">
+    <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="20" height="20">
+  </a>
 </div>
 &nbsp
 
-<div align="center"> <img src="../assets/CarEndurance1.jpg" width="65%" height="65%"> </div>
+<div align="center">
+  <img src="../assets/CarEndurance1.jpg" width="65%" height="65%">
+</div>
 &nbsp
 
 We are a student-run organization at Northeastern University building all-electric formula-style race cars from scratch to compete in Formula Hybrid + Electric and Formula SAE.
