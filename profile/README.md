@@ -1,10 +1,10 @@
 <div align="center">
-   <a href="https://electricracing.northeastern.edu">
-      <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://electricracing.northeastern.edu/wp-content/uploads/2023/02/cropped-NER-logo-white.png" width="200">
-         <img alt="Northeastern Electric Racing Logo" src="../assets/LogoLight.png" width="200">
-      </picture>
-   </a>
+  <a href="https://electricracing.northeastern.edu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://electricracing.northeastern.edu/wp-content/uploads/2023/02/cropped-NER-logo-white.png" width="200">
+      <img alt="Northeastern Electric Racing Logo" src="../assets/LogoLight.png" width="200">
+    </picture>
+  </a>
 </div>
 &nbsp&nbsp
 <div align="center">
