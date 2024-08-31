@@ -8,21 +8,35 @@
 </div>
 &nbsp&nbsp
 <div align="center">
-   <a href="https://finishlinebyner.com">
-      <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="../assets/FinishlineDark.jpg" width="40" height="20">
-         <img alt="Finishline Logo" src="../assets/FinishlineLight.png" width="40" height="20">
-      </picture>
-   </a>
-   &nbsp&nbsp 
-   <a href="https://www.linkedin.com/company/northeasternelectricracing"> 
-   <img src="../assets/LinkedIn.svg" width="20" height="20"> 
-   </a>
-   &nbsp&nbsp <a href="https://www.instagram.com/nuelectricracing/"> <img src="../assets/Instagram.svg" width="20" height="20"> </a> &nbsp&nbsp<a href="https://nerdocs.atlassian.net/wiki/spaces/NER/overview?homepageId=65735"> <img src="../assets/confluence-1.svg" width="20" height="20"> </a>
+  <a href="https://finishlinebyner.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../assets/FinishlineDark.jpg" width="40" height="20">
+      <img alt="Finishline Logo" src="../assets/FinishlineLight.png" width="40" height="20">
+    </picture>
+  </a>
+  &nbsp&nbsp
+  <a href="https://www.linkedin.com/company/northeasternelectricracing">
+    <picture>
+      <img src="../assets/LinkedIn.svg" width="20" height="20">
+    </picture>
+  </a>
+  &nbsp&nbsp
+  <a href="https://www.instagram.com/nuelectricracing/">
+    <picture>
+      <img src="../assets/Instagram.svg" width="20" height="20">
+    </picture>
+  </a>
+  &nbsp&nbsp
+  <a href="https://nerdocs.atlassian.net/wiki/spaces/NER/overview?homepageId=65735">
+    <picture>
+      <img src="../assets/confluence-1.svg" width="20" height="20">
+    </picture>
+  </a>
 </div>
 &nbsp
+
 <div align="center">
-   <img src="../assets/CarEndurance1.jpg" width="65%" height="65%">
+  <img src="../assets/CarEndurance1.jpg" width="65%" height="65%">
 </div>
 &nbsp
 
