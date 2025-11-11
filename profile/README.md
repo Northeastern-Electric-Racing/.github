@@ -56,10 +56,10 @@ Our software team is a diverse group of software, computer, and electrical engin
 | [Argos](https://github.com/Northeastern-Electric-Racing/Argos) | A full stack data visualization and storage tool enabling real-time processing of car diagnostics for debugging and racetime information, as well as long term cloud management and querying of car statitistics. | Rust, MQTT, Prisma, TimescaleDB, Angular, Typescript, Protobuf |
 | [Nero](https://github.com/Northeastern-Electric-Racing/Nero-2.0) | An extensive and intuitive car dashboard. | QT, C++, QML, MQTT |
 | | **Firmware** | |
-| [Shepherd](https://github.com/Northeastern-Electric-Racing/ShepherdBMS-2)  | A from-scratch battery management system.  | C |
-| [Cerberus](https://github.com/Northeastern-Electric-Racing/Cerberus)     | A real-time state manager for the car, controlling torque calculations and peripheral functions. | C, FreeRTOS |
+| [Shepherd](https://github.com/Northeastern-Electric-Racing/TSECU-Shepherd)  | A from-scratch battery management system (ver. 3).  | C, ThreadX |
+| [Cerberus](https://github.com/Northeastern-Electric-Racing/Cerberus-2.0)     | A real-time state manager for the car, controlling torque calculations and peripheral functions (ver. 2). | C, ThreadX |
 | [Proteus](https://github.com/Northeastern-Electric-Racing/ProteusMC) | A real-time from-scratch dual processor motor controller (pre 1.0). | C, FreeRTOS |
-| [Mechanical Sensor Board FW ](https://github.com/Northeastern-Electric-Racing/MSB-FW) | A minimal and dynamic sensor interpreter for CAN bus relaying (pre 1.0). | C, FreeRTOS |
+| [Mechanical Sensor Board FW ](https://github.com/Northeastern-Electric-Racing/MSB-FW-2) | A minimal and dynamic sensor interpreter for CAN bus relaying (pre-release 2). | C, ThreadX |
 | | **Embedded Software** | |
 | [Odysseus](https://github.com/Northeastern-Electric-Racing/Odysseus)  | A custom Linux operating system supporting our Wireless and Siren initiatives, also hosting Calypso, NERO, and Argos. | HaLow 802.11ah, MQTT, Buildroot, Python |
 | [Calypso](https://github.com/Northeastern-Electric-Racing/Calypso) | A minimal application to bidirectionally process and translate CAN bus packets and MQTT messages using a human readable code-generating configuration. | Rust, SocketCAN, MQTT, Python, Protobuf |
@@ -71,7 +71,7 @@ Our software team is a diverse group of software, computer, and electrical engin
 
 
 
-If you have any questions or would like to get involved in the NER Software Team, please reach out to Chief Software Engineer Peyton McKee: mckee.p@northeastern.edu.
+If you have any questions or would like to get involved in the NER Software Team, please reach out to Chief Software Engineer Sean Walker: walker.se@northeastern.edu.
 
 
 
