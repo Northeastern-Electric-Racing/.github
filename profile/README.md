@@ -71,7 +71,7 @@ Our software team is a diverse group of software, computer, and electrical engin
 
 
 
-If you have any questions or would like to get involved in the NER Software Team, please reach out to Chief Software Engineer Sean Walker: walker.se@northeastern.edu.
+If you have any questions or would like to get involved in the NER Software Team, please reach out to Chief Software Engineer Chris Pyle: pyle.c@northeastern.edu.
 
 
 
